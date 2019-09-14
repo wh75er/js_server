@@ -1,0 +1,12 @@
+{
+	"name" : "hello-world",
+	"version" : "1.0.0",
+	"scripts" : {
+		"start" : "node server.js"
+	},
+	"dependencies" : {
+		"expresss" : "4.17.1"
+	},
+	"author" : "wh75er",
+	"license" : "ISC"
+}
